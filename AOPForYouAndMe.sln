@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOPForYouAndMe.Part1.Scattered", "AOPForYouAndMe.Part1.Scattered\AOPForYouAndMe.Part1.Scattered.csproj", "{382DA62E-1881-4A2E-929B-7FD3F145F821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1E9A49AF-42C9-4DDD-8EB6-1DA2002F22D1}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382DA62E-1881-4A2E-929B-7FD3F145F821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382DA62E-1881-4A2E-929B-7FD3F145F821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382DA62E-1881-4A2E-929B-7FD3F145F821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382DA62E-1881-4A2E-929B-7FD3F145F821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
